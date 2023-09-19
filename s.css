@@ -1,0 +1,93 @@
+.box
+{
+    padding: 0;
+    background-color: slategrey;
+    height: 100px;
+    display: flex;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    width: 100%;
+    
+    
+    
+}
+
+.box:hover{
+    color: white;
+}
+.nm
+{
+    margin-top: 83px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+   background-color: antiquewhite;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.pb
+{
+    background-color: rgb(12, 10, 10);
+    height: 650px;
+    width: 150px;
+    color: white;
+    
+    
+}
+.containbox
+{
+    background-color: slategray;
+    height: 370px;
+    width: 950px;
+    margin-right: 70px;
+    color: black;
+    border-radius: 12px;
+    box-shadow: 5px 10px;
+   
+}
+.magicbox 
+{
+    margin-left: 210px;
+    color: rgb(2, 30, 58);
+    margin-top: 152px;
+    position: absolute;
+   
+}
+.magicbox2 
+{
+   
+    margin-left: 210px;
+    color: rgb(2, 30, 58);
+    margin-top: 652px;
+    position: absolute;
+}
+.magicbox3
+{
+   
+    margin-left: 210px;
+    color: rgb(2, 30, 58);
+    margin-top: 1152px;
+    position: absolute;
+}
+.magicbox4
+{
+   
+    margin-left: 210px;
+    color: rgb(2, 30, 58);
+    margin-top: 1652px;
+    position: absolute;
+}
+.magicbox5
+{
+   
+    margin-left: 210px;
+    color: rgb(2, 30, 58);
+    margin-top: 2152px;
+    position: absolute;
+}
+
+   
